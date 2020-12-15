@@ -1,0 +1,9 @@
+global:
+  on-commands:
+    - 'op {name}'
+  off-commands:
+    - 'deop {name}'
+  keepInventory: false
+  keepLocation: false
+# <UUID>:
+  # SEE ABOVE SECTION

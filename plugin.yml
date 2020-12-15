@@ -1,0 +1,14 @@
+name: ToggleAdmin
+main: com.jmer05.toggleadmin.Main
+version: 1.0.0
+api-version: 1.15
+authors:
+  - 'Josh Merlino'
+depends:
+commands:
+  toggleadmin:
+    usage: /toggleadmin
+    description: Toggles admin mode
+  ta:
+    usage: /ta
+    description: Toggles admin mode
